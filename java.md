@@ -217,3 +217,4 @@ public class JavaDemo {
 
 浮点型数据描述的是小数，而在java里面任意的一个小数常量其对应的类型为double，所以在以后描述小数的时候都建议直接使用double进行定义。
 
+他妈的
